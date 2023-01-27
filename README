@@ -1,1 +1,6 @@
-pdf reader for survery paper research 
+.pdf reader to assist survery paper research. 
+
+Application direction:
+Use tool to scan papers for Ml techniques specified under acronymns and similar references. 
+Manualy check if the identified ML technique has been used in the research. 
+
